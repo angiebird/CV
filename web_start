@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>angiebird</title>
+<link rel="stylesheet" href="http://www.cims.nyu.edu/~chc490/style.css" media="screen" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<div id="wrapper"> 
+<div id="header">
+<h1>Angie Chiang</h1>
+<div id="button" style="cursor: pointer;" onclick="window.location='https://www.google.com.tw/?gws_rd=ssl#q=%E6%B1%9F%E5%8B%81%E6%B6%B5';">
+About
+</div>
+<div id="button" style="cursor: pointer;" onclick="window.location='resume.pdf';">
+Resume
+</div>
+<div id="button" style="cursor: pointer;" onclick="window.location='http://162.243.98.225:8000/acm';">
+ACM 
+</div>
+<div id="button" style="cursor: pointer;" onclick="window.location='http://angie-chiang.tumblr.com/';">
+Project
+</div>
+<div id="button" style="cursor: pointer;" onclick="window.location='http://angie-chiang.tumblr.com/';">
+Blog
+</div>
+</div>
+
+<div id="content"> 
+
